@@ -3,7 +3,7 @@
 
 # Education
 
-- I got graduated as an computer science engineer from university Rajiv Gandhi Proudyogiki Vishwavidyalaya in 2020 with 8 cgpa.
+- 📐I got graduated as an computer science engineer from university Rajiv Gandhi Proudyogiki Vishwavidyalaya in 2020 with 8 cgpa.
 - After that i've done 6months “ CORPORATE TRAINING ” at QSpider Institute Where i learnt (SQL, Manual Testing, Java, Aptitude).
 # Project
 
