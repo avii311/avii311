@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avinash.
-- I am 22 years old.
+- I am 24 years old.
 
 # Education
 
@@ -7,7 +7,7 @@
 - After that i've done 6months “ CORPORATE TRAINING ” at QSpider Institute Where i learnt (SQL, Manual Testing, Java, Aptitude).
 # Project
 
-- I have done a project on Railway Reservation System: This is console application which is developed in c. This project is based
+- I have done a project on Railway Reservation System: This is a web application which is developed in html css and js. This project is based
 on railway ticket reservation This project contains several features like:
  -
        1. Check seat availability
